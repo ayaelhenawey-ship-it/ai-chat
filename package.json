@@ -1,0 +1,17 @@
+{
+  "name": "ai-chat-backend",
+  "version": "1.0.0",
+  "description": "AI Chat Backend - Ollama Integration with Express",
+  "main": "server.cjs",
+  "scripts": {
+    "start": "node server.cjs",
+    "dev": "node server.cjs"
+  },
+  "keywords": ["ai", "chat", "ollama", "llama3", "express"],
+  "author": "Ayoush",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1",
+    "cors": "^2.8.6"
+  }
+}
